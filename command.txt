@@ -1,0 +1,3 @@
+python run_camera.py ^
+  --encoder vits ^
+  --outdir [out_dir]
